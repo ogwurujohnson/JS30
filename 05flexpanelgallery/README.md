@@ -1,4 +1,4 @@
-![JS04](js04.PNG)
+![JS04](js05.PNG)
 # JavaScript30 Challenge 05 - Flex Panel Gallery
 Gallery using Flex, controlled operation using Javascript
 
